@@ -1,4 +1,4 @@
 # Functions
-Add ToDO
-Delete ToDo
-Mark Complete
+Add ToDO<br>
+Delete ToDo<br>
+Mark Complete<br>
