@@ -50,7 +50,7 @@ function App() {
     const[todos,setTodos]=useState([
         {text:'Learn React hooks', isCompleted: false},
         {text:'Make it cool',isCompleted: false},
-        {text:'Show hayden',isCompleted: true}
+        {text:'Show hayden',isCompleted: false}
     ]);
     
     const addTodo=text=>{
