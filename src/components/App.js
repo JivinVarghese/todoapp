@@ -12,7 +12,7 @@ import './App.css';
         >
             {props.todo.text}
             <div>
-                <button onClick={()=>props.completeTodo(props.index)}>Complete</button>
+                <button onClick={()=>props.completeTodo(props.index)}>Done</button>
             </div>
             <div>
                 <button onClick={()=>props.removeTodo(props.index)}>x</button>
